@@ -1,6 +1,6 @@
 This is the first line used for the pull request test. And another pull request test line.
 
-This is the second line.
+This is the second line, for the conflict exercise.
 
 
 And the third
